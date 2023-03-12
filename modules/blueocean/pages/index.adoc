@@ -36,7 +36,7 @@ To start using Blue Ocean, refer to link:getting-started/[getting started with B
 ifdef::backend-html5[]
 ++++
 <center>
-<iframe width="853" height="480"
+<iframe width="800" height="420"
 src="https://www.youtube-nocookie.com/embed/k_fVlU1FwP4?rel=0" frameborder="0"
 allowfullscreen></iframe>
 </center>
